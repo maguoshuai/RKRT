@@ -1,0 +1,4 @@
+ACM Transactions on Database Systems
+ACM Transactions on Information Systems
+IEEE Transactions on Knowledge and Data Engineering
+The VLDB Journal

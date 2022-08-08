@@ -1,0 +1,13 @@
+ACM Transactions on Algorithms
+ACM Transactions on Computational Logic
+ACM Transactions on Mathematical Software
+Algorithmica
+Computational Complexity
+Formal Aspects of Computing
+Formal Methods in System Design
+INFORMS Journal on Computing
+Journal of Computer and System Sciences
+Journal of Global Optimization
+Journal of Symbolic Computation
+Mathematical Structures in Computer Science
+Theoretical Computer Science

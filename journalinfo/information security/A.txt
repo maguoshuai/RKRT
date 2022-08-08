@@ -1,0 +1,3 @@
+IEEE Transactions on Dependable and Secure Computing
+IEEE Transactions on Information Forensics and Security
+Journal of Cryptology

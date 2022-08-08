@@ -1,0 +1,3 @@
+IEEE Journal on Selected Areas in Communications
+IEEE Transactions on Mobile Computing
+IEEE ACM Transactions on Networking

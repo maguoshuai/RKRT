@@ -1,0 +1,4 @@
+Computers & Security
+Designs, Codes and Cryptography
+Journal of Computer Security
+ACM Transactions on Information and System Security

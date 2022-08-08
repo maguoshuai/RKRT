@@ -1,0 +1,10 @@
+ACM Transactions on Architecture and Code Optimization
+ACM Transactions on Autonomous and Adaptive Systems
+ACM Transactions on Design Automation of Electronic Systems
+ACM Transactions on Reconfigurable Technology and Systems
+IEEE Transactions on Very Large Scale Integration Systems
+Journal of Parallel and Distributed Computing
+Journal of Systems Architecture
+Parallel Computing
+Performance Evaluation
+ACM Transactions in Embedded Computing Systems

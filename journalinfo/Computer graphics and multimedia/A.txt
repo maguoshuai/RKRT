@@ -1,0 +1,3 @@
+ACM Transactions on Graphics
+IEEE Transactions on Image Processing
+IEEE Transactions on Visualization and Computer Graphics

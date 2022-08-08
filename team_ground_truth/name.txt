@@ -1,0 +1,260 @@
+http://vision.stanford.edu/people.html
+##Fei-Fei Li
+%%Juan Carlos Niebles
+@@Barry Chai
+&&Animesh Garg	Guido Pusiol	Yanan Sui
+^^Jim Fan	Albert Haque	De-An Huang	Justin Johnson	Ranjay Krishna	Damian Mrowca	Serena Yeung	Yuke Zhu
+$$Shyamal Buch	Zelun Luo
+==Timnit Gebru	Alex Alahi	Cewu Lu	Joseph Lim	Lamberto Ballan	Jon Krause	Andrej Karpathy	Vignesh Ramanathan	Marius Cătălin Iordan	Michelle Greene	Olga Russakovsky	Kevin Tang	Chris Baldassano	Alireza Fathi	Armand Joulin	Jia Deng	Bangpeng Yao	Jia Li	Juan Carlos Niebles
+
+https://vcla.stat.ucla.edu/people.html
+%%Song-Chun Zhu	Ying Nian Wu	Hongjing Lu	Tao Gao	Jungseock Joo
+&&Yixin Zhu	
+^^Arjun R. Akula	Yixin Chen	Mark Edmonds	Lifeng Fan	Eric Fischer	Feng Gao	Steven Ran Gong	Ruiqi Gao	Xiaofeng Gao	Muzhi Han	Yining Hong	Siyuan Huang	Baoxiong Jia	Ziyuan Jiao	Qing Li	Hangxin Liu	Tengyu Liu	Pan Lu	Xiaojian Ma	Jonathan Mitchell	Erik Nijkamp	Liang Qiu	Shuwen Qiu	Yuxing Qiu	Feng Shi	Shu Wang	Sirui Xie	Xu Xie	Yifei Xu	Luyao Yuan	Chi Zhang	Victor Zhang	Zeyu Zhang	Tianyang Zhao	Yizhou Zhao	Zilong Zheng	Yaxuan Zhu
+$$Yik Lun (Allen), Kei	Deqian Kong
+
+https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/
+%%Ruzena Bajcsy	Trevor Darrell	Alexei Efros	Jitendra Malik	Ravi Ramamoorthi	Avideh Zakhor	Pablo Arbelaez	Allen Yang
+&&Joao Carreira	Ryan Farrell	Katerina Fragkiadaki	Ross Girshick	Yong Jae Lee	Dikpal Reddy
+$$Patrik Sundberg	Jon Barron	Hyun Oh Song	Yangqing Jia	Sergey Karayev	Oriol Vinyals	Bharath Hariharan	Georgia Gkioxari	Judy Hoffman	Jon Long	Jiamin Bai	Ning Zhang	Saurabh Gupta	Jeff Donahue	Panna Felzen	Abhishek Kar	Karthik Narayan	Evan Shelhamer	Tinghui Zhou	Jun-Yan Zhu	Michael Tao	Pulkit Agrawal
+==Paul Kube	Pietro Perona	Niklas Nordstrom	Ziv Gigus	David G. Jones	Clark Olson	Joseph Weber	Ruth Rosenholtz	Paul Debevec	Christoph Bregler	Jianbo Shi	Chad Carson	Yi Ma	Yizhou Yu	Thomas Leung	Serge Belongie	John Haddon	Sergey Ioffe	David Martin	Alexei A. Efros	Laura Walker Renninger	Greg Mori		Andras Ferencz	Deva Ramanan	Charless Fowlkes	Alex Berg	Xiaofeng Ren	Tamara Berg	Hao Zhang	Andrea Frome	Ryan White	Jaety Edwards	Parvez Ahammad	Michael Maire	Ashley Eden	Chetan Nandakumar	Lubomir Bourdev	Subhransu Maji	Chunhui Gu	Roberto Manduchi	Dieter Koller	Quang-Tuan Luong	David Beymer	Hayit Greenspan	Philip McLauchlan	C.J. Taylor	Jana Kosecka	Jianbo Shi	Paul Debevec	Jan Puzicha	Doron Tal	Yair Weiss	Kobus Barnard	Pinar Duygulu	Erik Learned-Miller	Yee Whye Teh	Stella Yu	Eran Borenstein	Bjorn Ommer	Thomas Brox	Manmohan Chandraker
+
+https://sites.usc.edu/iris-cvlab/people/
+%%Ram Nevatia	Gerard Medioni
+^^Arka Sadhu	Xuefeng Hu	Zhaoheng Zheng	Haidong Zhu
+==Alumni	Bo Yang	Chen Sun	Song Cao	Prithviraj Banerjee	Bor-Jeng Chen	Anustup Kumar Choudhury	Shay Deutsch	Matthias Hernandez	Chang Huang	Zhuoliang Kang	Furqan M Khan	Jungyeon Kim	Younghoon Lee	Jatuporn Leksut	Tung Sin Leung	Jan Prokaj	Pramod K. Sharma	Vivek Kumar Singh	Anh Tran	Ruizhe Wang	Xuemei Zhao	Jiyang Gao	Zhenheng Yang	Rama Kovvuri	Kan Chen	Feng-Ju Chang	Kang-Geon Kim	Tal Hassner
+
+http://www.pami.sjtu.edu.cn/Student/64
+%%Jie Yang	Hongbin Shen	Yu Qiao	Yue Zhou	LixiuYao	Xiaolin Huang	Enmei Tu	Yun Gu	Hui Wang	
+$$Asad, M	Jianwei Cai	Zhijie Cao	Sizhe Chen	Kun Fang	ChenJie Ge	Yueyang Gu	Tianjiao Guo	Xiao Han	Fan He	Mingzhen He	Jing Huang	Yizhang Huang	He Jiang	Lingtong Kong	Jiawen Li	Mingzhe Li	Tao Li	Ziyun Liang	Jiaqi Liu	Kuikun Liu	Kexin Lv	Qin Luo	Yulei Qin	Donghao Shen	Cai Sun	Chengjin Sun	Lei Tan	Shuai Tang	Kaijie Wang	Lu Wang	Pengbo Wang	Rui Wang	Xiang Wang	Zifei Wang	Zihao Wang	Pengjin Wei	Shutong Wu	Yingwen Wu	Chao Xia	Zhiqiang Xie	Hang Xu	Jintian Xu	Yifan Xu	Xiaohang Yang	Zuopeng Yang	Leyu Yao	Tianping Yin	Xin You	Weihao Yu	Chuyan Zhang	Minghui Zhang	Tianyi Zhang	Hao Zheng	Bei Zu
+==Zhenggang Lu	Yingkai Guo	Xufeng Ling	Chenzhou Ye	Lawei A	Ying Hu	Zhiqiang Yu	Yong Quan	Zhipeng Deng	Guozheng Li	Limin Yang	Gang Li	Wei Kong	Yuanjie Zheng	Fengchao Zhang	Yuzhong Wang	Yonggang Wang	Zhi Liu	Ningsong Peng	Meng Wang	Zhonglong Zheng	Dong Liang	Xiangyang Wang	Xiaoliang Li	Xinliang Ge	Jian Cheng	Kai Xie	Yongliang Zhang	Lei Yang	Hongbin Shen	Hui Liu	Jianguo Ling	Xiaojun Liu	Nian cai	Hongxing Qin	Chunhua Du	ShuangQuan Wang	Qinghua Huang	Ming Li	Yunfeng Xue	Tiaohao Zhang	Ruiming Liu	Lv Guo	Fanglin Wang	Shengyang Yu	Junfeng Zhang	Yi Zhang	Shengzheng Wang	Feng Shi	Tong Wang	Tun Hu	Xiang Zhang	Congxin Liu	Yonghui Gao	Tianhong Zhu	Jia Liu	Jiajia Zhao	Jingqin Lv	Lin Zhu	Deying Feng	Jiangxiong Fang	Qiao Huang	Xiaogang Chen	Wei Long	Miaohui Zhang	Chen Gong	Xiaojie Dong	Lei Zhou	Yipeng Song	Enmei Tu	Loza Artur	Keren Fu	Cheng Yang	Tao Zhang	Pengpeng Zhang	Kai Xie	Wei Liu	Yixin Li	Junhao Zhang	Tao Zhou	Qiyu Jin	Lei Zhou	Wei Xu	Donghao Shen	Chenjie Ge	Haoyuan Chi	Fanghui Liu	Junmin Wu	Chao Ma	He Jiang	Yun Gu	Yulei Qin	Lu Wang	Xiang Wang	Hao Zheng	Tianshu Chu	Tiaojiao Guo	Lingtong Kong	Zuopeng Yang	JiaWen Li	Kexin Lv	Tianyi Zhang	Kaijie Wang	Yingwen Wu	Fan He	Mingzhen He	Chuyan Zhang
+
+http://vision.ucsd.edu/people
+%%Serge Belongie	David Kriegman	Ravi Ramamoorthi	Ramesh Jain	Zhuowen Tu	Nuno Vasconcelos	Carven von Bearensquash
+^^Eric Christiansen	Arturo Flores	Iljung Sam Kwak	Matteo Mannino	Jameson Merkow	Zak Murez
+==Tali Treibitz	Florian Schroff	Fredrik Kahl	Jeff Ho	Ricardo Swain Oropeza	Oscar Beijbom	Hani Altwaijry	Mohammad Moghimi	Catherine Wah	Michael Wilber	Kai Wang	Boris Babenko	Steve Branson	Carolina Galleguillos	Manmohan Chandraker	Vincent Rabaud	Neil Alldrin	Neel Joshi	Andrew Rabinovich	Kristin Branson	Piotr Dollár	Ben Ochoa	Sameer Agarwal	Sebastian Magda	Satya Mallick	Josh Wills	Jongwoo Lim	Kuang-Chih Lee	Erliang Yeh	Baskaran Vijayakumar	Camillo Taylor	Jong-Chyi Su	Grant Van Horn	Tsung-Yi Lin	Phuc Xuan Nguyen	Andrew Ziegler	Prasanna Krishnasamy	Nick True	Tess Winlock	Fred Birchmore	Nadav Ben-Haim	Tom Duerig	Benjamin Laxton	Louka Dlagnekov	Xin Wang	Mei-fang Huang	Wen Jen	Diem Vu	Sang-Chul Lee	Sebastian Magda	Nick Hurlburst	Amit Sethi	Mark Hyman	Grant Van Horn	Connor Worley	Hourieh Fakourfar	Anton Escobedo	Kevin King	Marília Maschion	Boris Babenko	Nadav Ben-Haim	Stephan Steinbach	Yan Sun	Michael English	Iljung Sam Kwak	Evelyn Vargas	Alvin Poon	Tomeka Heglar	Ben Leong	Marci Meingast	Tyler Robinson	Onil Gunawardana	Mike Toumbas
+
+http://www.ee.cuhk.edu.hk/~xgwang/group.htm
+##Xiaogang Wang
+**Wanli Ouyang	Hongsheng Li
+^^Jing Shao	Xingyu Zeng	Shuai Yi	Zhe Wang	Xiao Chu	Tong Xiao	Kai Kang	Wei Yang	Zhuoyi Zhao	Ziwei Liu	Shuang Li	Yantao Shen	Hongyang Li
+$$Shuai Li	Yonglong Tian
+==Rui Zhao	Yi Sun	Ping Luo	Shi Qiu	Wei Li	Meng Wang	Xiaotian He
+
+https://www.microsoft.com/en-us/research/group/visual-computing/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fgroups%2Fvc%2F
+##Fang Wen
+%%Jianmin Bao	Yue Cao	Dong Chen	Baining Guo	Han Hu	Steve Lin	Xiao Sun	Jingdong Wang	Zhirong Wu	Hao Yang	Jiaolong Yang	Bo Zhang	Ting Zhang	Zheng Zhang
+
+https://www.cse.unr.edu/CVL/people.php
+##George Bebis	Mircea Nicolescu
+%%Ali Erol	Dwight Egbert	Michael Webster	Peter Li
+&&Scalzo Fabien	Konstantinos Veropoulos	Junxian Wang	Wenjing Li
+^^Christoper King	Amol Ambardeker	Aras Dargazany	Maryam Jaberi	Faezeh Tafazzoli	Dan Farmer
+$$Rory Pierce
+==Gholamreza Amayeh	Alireza Tavakkoli	Leandro Loss	Zehang Sun	Pradeep Katta	Zhiming Liu	Tamer Uz	Sreevatsan Raman	Javier Martinez	Jorge Usabiaga	Jigna Bhatt	Mehmet Eser	Navin Goel	Saurabh Singh	Tom Patten	Aglika Gyaourova	Jonathan Dowdall	Vladimir Nikulin	Elham Alavi	Chris Smith	Xiaosheng Tu	Satish Uthiram	Taisa Deaconu	Alexey Kryuchkov
+
+http://vis-www.cs.umass.edu/people.html
+##Subhransu Maji	Erik Learned-Miller
+%%Evangelos Kalogerakis	Liangliang Cao	Rui Wang	R. Manmatha	Howard Schultz	Allen R. Hanson
+@@Laurie Downey
+$$Aruni RoyChowdhury	Hang Su	SouYoung Jin	Tsung-Yu Lin	Pia Bideau	Huaizu Jiang	Jong-Chyi Su	Matheus Gadelha	Archan Ray	Zezhou Cheng	Chenyun Wu	Gopal Sharma	Mikayla Timm	Ashish Singh	Chetan Manjesh	Gustavo Perez
+==Thomas Irmer	Kundan Kumar	Unnat Jain	Xu-Cheng Yin	Dan Xie	Cheni Chadowitz	Li Yang Ku	Laura Sevilla Lara	Andrew Kae	Marwan Mattar	Manjunath Narayana	Jacqueline Feild	Benjamin Mears	Gary Huang	Piyanuch Silapachote	David Smith	Vidit Jain	Lumin Zhang	Jessica Krause	Paul Dickson	Jerod Weinman	Dimitri Lisin	Frank Stolle	Matthew Blaschko	Vitaly Ablavsky	P. Anandan	Ron Arkin	Poornima Balasubramanyam	George D. Bissias	J. Ross Beveridge	Shashi Buluswar	J. Brian Burns	Artyom Burov	Yong-Qing Cheng	Allison Clayton	Robert Collins	Christopher Connolly	Chen Dansong	Madirakshi Das	John Dolan	Bruce Draper	Rabindranath Dutta	Claude L. Fennema	Dirk Focken	Frank Glazer	Martin Herbordt	Keith Hoepfner	Christopher Jaynes	Deepak Karuppiah	Charlie Kohl	Sergei Kovalenko	Rakesh Kumar	Gokhan Kutlu	Daryl Lawton	Kyu-Won Lee	Qifeng Lu	Jonathan Lim	Mauricio Marengoni	Adriana Mincheva	Paul Nagin	Hiromasa Nakatani	John Oliensis	Chris Pal	Justus Piater	Brian Pinette	Heddi Plumb	Kelly Porpiglia	Deepak Rana	Bert Rawert	Chandu Ravela	Benny Rochwerger	Harpreet Sawhney	Michael Scudder	Anthony Schwickerath	Dana Slaymaker	Mingyu Tang	Edward Teffeau	J. Inigo Thomas	Richard Weiss	Terry Weymouth	Lance R. Williams	Xiaoguang Wang	Tom Williams	Gary Witten	Dong-Min Woo	Victor Wu	Yong-Ge Wu	Bryant York	Zhongfei Zhang	Zhigang Zhu
+
+https://www.grasp.upenn.edu/research-groups/dair-lab
+%%Michael Posa
+^^Brian Acosta	Yu-Ming Chen	Mathew Halm
+$$Jianshu Hu
+==Shrenik Muralidhar	Yuhan Zhao
+
+https://www.grasp.upenn.edu/research-groups/haptics
+^^Eric Young
+==Alexis E. Block	Jeremy Brown	Alex Burka	Heather Culbertson	Kent Devillafranca	Naomi Fitter	Stuart Helgeson	Siyao Hu	Jennifer Hui	Eza Koch	Katherine Kuchenbecker	Conor O'Brien	Yousi Oquendo	Rebecca Pierce	Brian James Wright
+
+https://www.grasp.upenn.edu/labs/kodlab
+##Dan Koditschek
+%%Aja Carter	Diedra Krieger	Matthew Kvalheim	Jeremy Wang	^^Diego Caporale	Wei-Hsi Chen	Meghna Gummadi	Gavin Kenneally	Sonia Roberts	Shane Rozen-Levy	Abriana Stewart-Height	Thomas (Turner) Topping	Vasileios Vasilopoulos
+==Kevin Alcedo	Omur Arslan	Avik De	Jeffrey Duperret	Mitch Fogelson	Dan Guralnik	Berkay Deniz Ilhan	Aaron Johnson	Gabriel Lopes	Goran Lynch	Feifei Qian	Paul Reverdy	Shai Revzen	Vivek Venkatram	Garrett Wenger	Evelyn Fifi Yeung
+
+https://www.grasp.upenn.edu/research-groups/kumar-lab
+%%Vijay Kumar	James Keller	Terry Kientz	Sandeep Manjanna	Siddharth Mayya	Jimmy Paulos	Edward Steager	Dinesh Thakur	Jeremy Wang	Alex Zhou
+^^Parakh M. Gupta	Malakhi Hopkins	Laura Jarin-Lipschitz	Elijah S. Lee	Rebecca Li	Xu Liu	Ian Miller	Chao Qu	Kelsey Saulnier	Shreyas Shivakumar	Ekaterina Tolstaya	Jake Welde	$$Ryan Kortvelesy
+==Subhrajit Bhattacharya	David Cappelleri	Benjamin Charrow	Avraham Cohen	Gareth Cross	Philip Dames	Sambeeta Das	Jnaneshwar Das	Rafael Fierro	Luis Guerrero Bonilla	Elizabeth Hunter	Monroe Kennedy	Alex Kushleyev	Giuseppe Loianno	Douglas Macharet	Kartik Mohta	Yash Mulgaonkar	Tolga Ozaslan	Amanda Prorok	Rattanachai Ramaithitima	David Saldaña	Mac Schwager	Jun Seo	Shaojie Shen	Cristina Sorice	James Svacha	Sarah Tang	Justin Thomas	Pratap Tokekar	Matt Turpin	Guilherme Vicentim Narda	Michael Watterson	Michael Whitzer	Denise Wong	John Wright
+
+https://www.grasp.upenn.edu/labs/lifelong-machine-learning
+%%Eric Eaton
+^^David Isele	Seungwon Lee	Jorge Mendez Mendez
+==Alexander Ryan Baucom	Haitham Bou Ammar	Varun Gupta	José Marcio Luna	Mohammad Rostami	Shashank Shivkumar	Sakthivel Sivaraman	Vishnu Sreenivasan	James Stokes	William Thompson
+
+https://www.grasp.upenn.edu/research-groups/modlab
+##Mark Yim
+%%Andrew Bae	Jeremy Wang
+^^Omar Abdoun	Elizabeth Bianchini	Diego Caporale	Devin Carroll	Walker Gosrich	Gedaliah Knizhnik	Rebecca Li	Chao Liu	Caio Rodrigues Mucchiani	Andrew Specian	Alexander Spinos	Bruno Teles Gabrich	Jessica Yin
+==Abhraneel Bera	Shangyi Cheng	Foster D. Collins	Yunkai Cui	Jay Davey	Nick Eckenstein	Bhavya Narain Gupta	Eza Koch	Guanrui Li	Chia-Wei Lin	Gabrielle Merritt	Xuming Mo	Matthew Piccoli	Jun Seo	Wenxuan Tang	Tarik Tosun	Dean Wilhelmi	Xin Zhang
+
+https://www.grasp.upenn.edu/labs/nanorobotics-lab
+%%Marc Miskin
+^^Maya Lassiter
+
+https://www.grasp.upenn.edu/research-groups/rehabilitation-robotics-lab
+%%Michelle Johnson
+^^Kevin Bui	Shreyas Shivakumar	Sobrepera
+==Oladayo Adewole	John (Dalton) Banks	Klyde Breitton	Elaida Dimwamwa	Anushree Singh
+
+https://www.grasp.upenn.edu/labs/scalar-lab
+##M. Ani Hsieh
+%%Sandeep Manjanna	Xi Yu
+^^Victoria Edwards	Tahiya Salam
+==Dhanushka Kularatne	Hantian Liu	Hyunjoo Oh
+
+https://www.grasp.upenn.edu/labs/sung-robotics-lab
+%%Cynthia Sung
+^^Daniel Feshbach	Jessica McWilliams	Shivangi Misra
+
+grasp.upenn.edu/research-groups/upennalizers
+$$Abdullah Zaini
+==Alexander Ryan Baucom	Samarth Brahmbhatt	Xiang Deng	Daniel Lee	Yongbo Qian
+
+http://vision.cse.psu.edu/people/people.shtml
+%%Robert T. Collins	Yanxi Liu
+$$Jesse Scott	Bharadwaj Ravichandran	Shimian Zhang	Sweekar Sudhakara
+==David Capel	Zhaozheng Yin	Seungkyu Lee	Tamara Belkina	Somesh Kashyap	I-K Chiang	Ken Czuprynski	Weina Ge	Minwoo Park	Chen-Ping Yu	Anand Raja	Ingmar Rauschert	Asad Butt	Jingchen Liu	Sitapa Rujikietgumjorn	Kyle Brocklehurst	Diana Koshy	Suran Cui	Tianhe Wang	Jonathan Fry	Gang Zheng	Christopher Funk	Mark Wolff	Nick Dyszel	Savinay Nagendra	Andy Luo	Molly O'Brien	Sergey Ivanov	Anthony Marucci	Mingjie Wu	Aiyu Cui
+
+http://www.cs.cmu.edu/~hebert/
+%%Hae-Gon Jeon	Yuki Uchiyama	Christoph Mertz	Luis Navarro-Serment	John Kozar	^^Arne Suppe	Leonid Kesselman	Allie DelGiorno	Hanzhang Hu	Tiancheng Zhi	Nadine Chang
+==Damien Teney	Christophe de Vleechouwer	Yuan Junsong	Adrien Matricon	Wajahat Hussian	Kris Kitani	Ali Farhadi	Ranqi Zhu	Masumi Ishikawa	Andreas Wendel	Soonyong Park	Yuichi Ito	Benoit Seguin	Abhinav Gupta	Hee-Young Kim	Dong Hwan Kim	Nicolas Vandapel	Tetsuaki Suzuki	Raia Hasdell	Seijiro Inaba	Johannes Meng	Emiliano Perez Hernandez	Yuko Nakada	Antonio Adan	Ishan Misra	Jacob Walker	Yuxiong Wang	Arun Venkatraman	David Fouhey	Ekatarina Taralova	Ed Hsiao	Scott Satkin	Daniel Munoz	Alvaro Collet	Pyry Matikainen	Hong-Wen	Santosh Kumar Divvala	Marius Leordeanu	PhD Thesis	Gunhee Kim	Caroline Pantofaru	Ranjith Unnikrishnan	Andrew Stein	Yan Ke	Derek Hoiem	Cristian Dima	Sanjiv Kumar	Bart Nabbe	Charles Rosenberg	Owen Carmichael	Peng Chang	Matthew Deans	Daniel Huber	Shyjan Mahamud	Liam Pedersen	John Hancock	Dongmei Zhang	Andrew Johnson
+
+https://ps.is.tue.mpg.de/people
+##Michael Black
+%%Simone Behrens	Hedvig Kjellström	Nikos Kolotouros	Haemy Leemasson	Betty Mohler	Gerard Pons-Moll	Sergi Pujades	Alejandra Quiros-Ramirez	Daniel Scharstein	Cordelia Schmid	Siyu Tang	Anne Thaler	Gul Varol	Yan Zhang	Silvia Zuffi
+@@Halil Acet	Haiwen Feng	Taylor McConnell	Alex Valisu
+&&Michael Bannert	Arjun Chandrasekaran	Chun-Hao Paul Huang	Jinlong Yang
+^^Nikos Athanasiou	Elia Bonetto	Vassilis Choutas	Yao Feng	Maria Paola Forte	Partha Ghosh	Mohamed Hassan	Yinghao Huang	Marilyn Keller	Muhammed Kocabas	Qianli Ma	Felipe Mattioni	Lea Müller	Ahmed Osman	Eric Price	Sergey Prokudin	Nadine Rueegg	Nitin Saini	Soubhik Sanyal	Paul Soubiran	Omid Taheri
+
+http://www.via.cornell.edu/people/
+%%Anthony P. Reeves	Yiting Xie	Shuang Liu	Artit Jirapatnakul
+==Erissa Irani	Karen Cronk	Daniel Masetti	Jennifer Padgett	Jeremiah Wala	Alberto Biancardi	Brad Keller	Andrew Browder	Sergei Fotin	Jaseung Lee	Wendy Vandenberg-Foels	Andinet Enquobahrie	Antoni Chan	Benjamin Stein	Yury Mulman	Will Kostis	Carla LoPinto	Rich Prokop	Trina Russ	Chandan Reddy	Bryan Kressler	Shanti Katta
+
+
+https://www.surrey.ac.uk/centre-vision-speech-signal-processing/people/academic-staff
+##Adrian Hilton
+%%Miroslaw Bober	Richard Bowden	John Collomosse	Nikolaos Dikaios	Philip Evans	Anil Fernando	Lucia Florescu	Jean-Yves Guillemaut	Simon Hadfield	Philip Jackson	Josef Kittler	Samaneh Kouchaki	Jiri Matas	Mark Plumbley	Yi-Zhe Song	Wenwu Wang	Kevin Wells	Tao Xiang	Yongxin Yang	Zhenhua Feng
+
+https://www.cv.tu-berlin.de/menue/members_of_staff/parameter/en/
+##Olaf Hellwich
+%%Andreas Reigber	Marion Dennert	Wolfgang Stinner
+@@Marion Dennert
+&&Olivier D'Hondt
+^^Ahmed J. Afifi	Nader H. Aldeeb	Niek Andresen	Florian Blume	Akjol Djenaliev	Hardik Jain	M. Kwiatkowski	Simon Matern	Irina Nurutdinova	Manuel Wöllhaf
+
+https://cvpr.kmu.ac.kr/
+&&MiRa Jeong
+^^Sangwon Kim
+$$MinJi Park	Jimi Lee
+==DuYoug Heo	SangJun Kim	JoonYoung Kwak	EunJu Lee	JaWon Gim	HyeongHun Kim	MinCheol Hwang	JungEun Son	JuneHyeok Hong	JiHun Jung	JunOh Park	DeokYeon Kim	JiHyeon Lee	Sunjae Ham	SeongHoon Kim	KiHee Park	HyunJae Hwang	InGyu Lee	Jeonghee Shim	KwangHo Cheong	MiSuk Seo
+
+http://users.umiacs.umd.edu/~rama/people.html
+%%Carlos D. Castillo	Jun-Cheng Chen	Qinfen Zheng	Philippe Burlina	Reuven Meth	Hassan Shekarforoosh	Chandra Shekhar	Amit Roy Chowdhury	Volker Kruger	Volkan Cevher	Gang Qian	Pavan Kumar Turaga	Felipe Arrate	Vishal M. Patel	Azadeh Alavi	^^Boyu Lu	Rajeev Ranjan	Amit Kumar	Hongyu Xu	Arthita Ghosh	JingXiao Zheng	Ankan Bansal	Anirudh Nanduri	Lee Stearns	Navaneeth Bodla	Hui Ding	Wei-An Lin	Yogesh Balaji	Joshua Gleason	Steve Schwarz	Sai Rambhatla	Pirazh Khorramshahi	Prithviraj Dhar	Kaan Elgin	==Govind Sharma	Paul Singer	Hao Jinchi	Shankar Chatterjee	Robert T. Frankot	Ted J. Broida	Tal Simchony	Zhou Yi-Tong	Richard R. Hansen Jr.	Anand Rangarajan	Gason Young	V. Venkateswar	E.J.M. Rignot	Q. Zheng	B.S. Manjunath	S. Chandrashekhar	T.H. Wu	P. Burlina	O.J. Kwon	S.Z. Der	S. Krishnamachari	Y.S. Yao	H.C. Liu	C.L. Lin	K. Etemad	C. Morimoto	S. Kuttikad	W. Phillips	S. Srinivasan	V. Madhav Govindu	M. Srinivasan	W. Zhao	B. Li	A. Banerjee	H. Moon	G. Qian	Y. Wexler	A. Roy Chowdhury	Huying Liu	Amit Kale	V. Parameswaran	Shaohua Kevin Zhou	N. Vaswani	Amit Agrawal	Jian Li	Yang Ran	N. Cuntoor	Seong-Wook Joo	Joshua Broadwater	Feng Guo	ZhangFeng Yue	Aravind Sundaresan	Gaurav Aggarwal	Ashok Veeraraghavan	Narayanan Ramanathan	Wu Hao	Aswin Sankaranarayanan	Pavan Turaga	Jie Shao	Soma Biswas	Mahesh Ramachandran	Vishal Patel	Mohamed F. Abdelkader	Ruonan Li	Raghuram Gopalan	Kaushik Mitra	Dikpal Reddy	Ming Yu Liu	Nitesh Shroff	Qiang Qiu	Jaishanker Pillai	Sima Taheri	Hien Nguyen	Yi-Chen Chen	Tao Wu	Nazre Batool	Dave Shaw	Huy Tho Ho	Sumit Shekhar	Garrett Warnell	Ming Du	Ashish Srivastava	Jie Ni	Kaustav Nandy	Jingjing Zheng	Xavier Gibert Serra	Kota Hara	Raviteja Vemulapalli	Ching-Hui Chen	Chris Reale	Jun-Cheng Chen	Heng Zhang	Mohammed E. Fathy Salem	Emily Hand	Swami Sankaranarayanan	Pouya Samangouei	Upal Mahbub	Y. Lau	G. Cheesman	H. Singh	V. Sabio	S. Sirohey	D. Wason	R. Parulekar	S. Balakrisky	C. Stevens	H. Mahmood	D. Ayers	H. Gupta	Francesc Frigole-Roma	Marty Ballcells-Capellades	T. Yamamoto	U. Akdemir	A. Trias	K. Nandy	G. Rosenbush	P. Vageeswaran	Ankit Jain	Alex Krishnan Cramer	Kang-Hao Peng	Sayantan Sarkar	Sriram Vasudevan
+
+http://jiaya.me/members/
+^^SHEN Tiancheng	LAI Xin	CHU Ruihang	CHEN Yukang	LI Yanwei	CHEN Yixin	HUANG Shijia	HU Tao	LI Wenbo	LU Liying	QIAN Shengju	YANG Zetong	CHEN Yilun	CUI Jiequan	TIAN Zhuotao	XU Xiaogang	CHEN Pengguang	QI Lu	JIANG Li	WU Ruizheng	WANG Yi	LIN Huaijia	WANG Ruixing
+==CHEN Yingcong	ZHAO Hengshuang	GAO Hongyun	ZHANG Hong	QI Xiaojuan	LI Ruiyu	ZHOU Chao	TAO Xin	LIU Shu	SHEN Xiaoyong	LIN Di	SHI Jianping	LIAO Renjie	LU Cewu	YAN Qiong	ZHANG Qi	XU Li	WANG Liwei	ZHENG Shicheng	XIA Yang	WU Tai-Pang	QIN Zenglu	DAI Zhenlong	HUNG Chun Ho	XU Yi	CHEN Jianing	LIU Renting	FENG Wei	CHUNG Hin Shun	XIONG Wei	XU Leilei	SHAN Qi	TAO Chenjun
+
+https://www.cs.columbia.edu/CAVE/people/
+##Shree K. Nayar
+%%Anne P. Fleming	Peter K. Allen	Peter N. Belhumeur	Shih-Fu Chang	Steve Feiner	Eitan Grinspun	Tony Jebara	John R. Kender	Brian A. Smith	Changxi Zheng
+^^Parita Pooj	Henry Xu
+==Brian A. Smith	Changyin Zhou	Ollie Cossairt	Neeraj Kumar	Jinwei Gu	Sujit Kuthirummal	Bo Sun	Kshitiz Garg	Srinivasa Narasimhan	Rahul Swaminathan	Efstathios Hadjidemetriou	Joshua Gluckman	Kristin Dana	Simon Baker	Dinkar Bhat	Sameer Nene	Michael Oren	Yusuke Hayashi	Avinash Nair	Olivia Winn	Daniel Miau	Qi Yin	Neesha Subramaniam	Guru Krishnan	Vijay Anand Nagarajan	Vlad Branzoi	Maryam Kamvar	Naveed Hasan	Harish S. Peri	Amruta Karmarkar	Hari Sundaram	Venkat Peri	Sayan Mukherjee
+
+http://www.cs.cmu.edu/~ILIM/people/
+##Srinivasa Narasimhan
+%%Robert Tamburo
+^^Minh Vo	Joe Bartels	Chao Liu	Tiancheng Zhi	Shumian Xin	N Dinesh Reddy
+==Supreeth Achar	Subhagato Dutta	Vinay Palakkode	Feng Yang	Abhishek Chugh	Vivek Tiptur Umapathi	Yuandong Tian	Yu Sheng	Raoul de Charette	Peter Barnum	Jean-Francois Lalonde	Mohit Gupta	Chenyu Wu	Sanjeev J. Koppal	Shuntaro Yamazaki	Shreyas Venugopalan	You Jia	Xiaowei Zhu	Ji Hyun Lee	Eric Butler	Jennifer Turken
+
+https://see.xidian.edu.cn/vipsl/members.html
+%%Xinbo Gao	Jie Li	Cheng Deng	Chunna Tian	Wen Lu	Bing Han	Ying Wang	Bin Wang	Xiumei Wang	Jianlong Zhang	Beijia Ning	Zhenxing Niu	Lihuo He	Nannan Wang	Ru Zong
+^^Yanting Hu	Ning Sun	Ping Wang	Dong Liang	Zhaoqi Guo	Xiaodan Zhang	Xiangnan Zhang	Lin Qi	Zhuoqi Ma	Bing Cao	Yu Zhang	Mingrui Zhu	Decheng Liu	Yi Hao	Jingwei Xin	Yuanfei Huang	Ying Yu	Zheng Hui
+$$Qiqi Li	Haojun Xu	Zhiwei Xing	Weiquan He	Zhenxi Zhang	Yi Zhang	Xinpeng Ding	Wei Chen	Linzi Qu	Zhikang Wang	Guozhang Li	Liucheng Hu	Xiaotian Liu	Jiehao Tang
+==Aodong Shen	Gang Wang	Ying Li	Feng Chi	Liping Zhou	Chunna Tian	Yang Shi	Zhijie Li	Lei Mao	Yang Zhang	Huming Pan	Mingqing Li	Feifei Huo	Jing Wen	Tao Wang	Wen Lu	Ya Su	Yanhui Wang	Ying Wang	Yan Dong	Jian Zhang	Jianfeng Qiu	Na Zhang	Runling Yang	Lihua Zhang	Juanjuan Zhong	Yachang Lai	Shuze Liu	Wenqi Zhao	Jitao Han	Yaotian Zhang	Ting Wang	Weiwei Li	Kuan Peng	Bing Liu	Weihua Zhang	Zhaoyang Wang	Jun Feng	Jingwei Wang	Yimin Yang	Jinxiu Li	Yue Yang	Jing Xu	De Yang	Yanting Hu	Zhen Huang	Xiaodong Bu	Hongjun Luo	Yifeng Zheng	Linding Wen	Xianghong Wang	Guangdong Li	Gaofeng Pan	Tisheng Wang	Yu Wang	Peng Wang	Kou Zhang	Lianfeng Zhao	Pengbin Zhao	Meng Jia	Baohua Lu	Wei Wang	Qingeng Deng	Fang Zhou	Lingjun Gao	Xianghua Wang	Xiangchuan Yu	Kai Zeng	Zhigang Liu	Wei Liu	Hongjun Zhao	Lin Zha	Yanyan Cao	Peipei Xu	Cheng Deng	Wen Lu	Hua Zou	Xinrong Lv	Xinsheng Zhang	Liu Weiwei	Ning Wenbo	Zhang Hua	Zhang Ying	Zhang Qiankun	Li Jing	Liu Zhenxing	Li JInzhou	Lin Weishi	He Yanli	Wu Fan	Wang Yu	Yong Qiang	Wang Bo	Jing Wen	Ya Su	Bing Xiao	Ying Wang	Xiumei Wang	Bin Wang	Jinguang Chen	Rong Fu	Yongjun Jian	Ni Liu	Shijie Zhang	Hongna Chang	Linfeng Xu	Liang Li	Yuru Wang	Qian Wang	Hao Peng	Libin Sun	Lingling An	Kuan Peng	Caitian Qiyi	Xuyu Wang	Wenjian Tang	Yong Yang	Meng Ma	Guang Han	Guangwu Mu	Weijie Zhang	Feiyu Zhang	Zeqi Liu	Yifan Zhang	Dongyu Huang	Bo Yuan	Rui Fang	Weilong Hou	Xueli Chen	Kaibing Zhang	Zhenxing Niu	Feng Ji	Zongting Li	Zhigang Zhang	Yaxin Gao	Jifei Yu	Jianhua Peng	Jia Guo	Huaqing Wang	Beijia Ning	Lihuo He	Souleymane	Ning Mei	Jiang Bian	Kun Gao	Rui Gao	Chen Yang	Xinjing Ye	Denghui Zhou	Haiyan Peng	Jianlong Wang	Fang Xie	Yanhong Xu	Dongyang Li	Xiaojing Zhao	Xiuyun Ji	Qian Pu	Daifu Wang	Qianqiang Yan	Nannan Wang	Fei Gao	Lei Hao	Wenjun Ren	Weifang Liu	Hui Liu	Yangping Peng	Min Wang	Xinjun Gao	Xuyang Wang	Chuanwen Hong	Shengjie Wu	Huiru Deng	Dongxu Wang	Jie Xu	Xiumei Wang	Qian Liao	Hong Zheng	Yang Lu	Zhengting Han	Chuanqing Gao	Qin Guan	Lijun Niu	Jun Song	Jianfeng Zhai	Junge Shen	Weilong Hou	Shengchuan Zhang	Di Wang	Weiping Ni	Haijun Wang	Mingjin Zhang	Yanhua Yang	Nan Zhu	Lin Zhao	Yuhang Zhang	Leiyu Sun	Yujun Zhang	Qiao Li	Mengmeng Wang	Cai Xiumei	Jing Xu	Fei Qi	Lvcheng Wang	Ru Zong	Ying Li	Chunlei Peng	Yu Zheng	Xiaofeng Feng	Chongyue Zhao	Zhicheng Jiao	Qi Liu	Wenliang Qiu	Huibing Dai	Xue Wei	Ye Zhang	Hengda Li	Bo Yuan	Chao Pan	ADEEL AKRAM	Ruihan Dou	Qian Xi	Yuqian Zhang	Yuanyuan Chen	Cong Chen
+
+http://www.3dmed.net/syszr/index.htm
+##Jie Tian
+%%Hong Qiao	Xin Yang
+&&Guorong Cai	Ping Chen	Fangyuan Cui	Chengcai Leng	Bo Wang
+$$Jingwei Wei	Shuoye Wang	Jinzuo Ye	Kunshan He	Mengjie Fang	Yamin Mao	Wei Mou	Xiaonan Wan	Guodong Li	Wenjuan Wei	Shaung Zhang	Yu An	Kexin Deng	Jin Guo	Tianming Song	Yaqian Li
+
+https://www.pdl.cmu.edu/People/index.shtml
+##Greg Ganger	Bill Courtright
+%%George Amvrosiadis	David Andersen	Nathan Beckmann	Chuck Cranor	Lorrie Cranor	Christos Faloutsos	Saugata Ghose	Phil Gibbons	Garth Gibson	Mor Harchol-Balter	Gauri Joshi	Todd Mowry	David O'Hallaron	Andy Pavlo	Majd Sakr	Mahadev Satyanarayanan	Rashmi Vinayak	Jason Boles	Joan Digney	Chad Dougherty	Mitch Franzos	Karen Lindenfelser
+$$Daiyaan Arfeen	Nirav Atre	Mohammad Bakhshalipour	Ben Berg	Vilas Bhat	Amirali Boroumand	Sol Boucher	Matt Butrovich	Daiyaan Arfeen	Nirav Atre	Mohammad Bakhshalipour	Ben Berg	Vilas Bhat	Amirali Boroumand	Sol Boucher	Matt Butrovich	Mengxin Cao	Dominic Chen	Zhiran Chen	Yae Jee Cho	Andrew Chung	Ziqi Dong	Pratik Fegade	Ziqiang Feng	Graham Gobieski	Zijing Gu	Samarth Gupta	Jin Han	Travis Hance	Ankush Jain	Angela Jiang	Ellango Jothimurugesan	Saurabh Arun Kadekodi	Daehyeok Kim	Thomas Kim	Arvind Sai Krishnan	Jack Kosaian	Joseph Koshakow	Michael Kuchnik	Tian Li	Wan Shen Lim	Kaige Liu	Elliot Lockerman	Lin Ma	Ankur Mallick	Francisco Maturana	Sara McAllister	Charles McGuffey	Prashanth Menon	Hojin Park	Aurick Qiao	Brian Schwedock	Damla Senol	Baljit Singh	Vikramraj Sitpal	Suhas J Subramanya	Minh Truong	Dana Van Aken	Jianyu Wang	Ziqi Wang	Daniel Wong	Tong Xiao	Ricky Xu	Dongsheng Yang	Jason Yang	Zhengzhe Yang	Ling Zhang	Qing Zheng	Giulio Zhou
+==Michael Abd-El-Malek	Yoshihisa Abe	Zainul Abedin Abbasi	Mukesh Agarwal	Abutalib Aghayev	Rohit Agrawal	Anastassia Ailamaki	Pavan Kumar Alampalli	Azim Ali	Khalil Amiri	Hrishi Amur	Joy Arulraj	Kinman Au	Rachata Ausavarungnirun	North Bangkok	Sai Kiriti Badam	Venkata Ravi Chandra Bandlamudi	Keith Bare	Lujo Bauer	Sachin Bhamare	Vinaykumar Bhat	Stan Bielski	Mike Bigrigg	Stephen Bijansky	V. Parvathi Bhogaraju	Ben Blum	Matthew Brewer	Fiona Britto	Anthony Brockwell	Angela Demke Brown	John Bucy	Jeffrey Butler	Christopher Canel	Lei Cao	Mikhail Chainani	Ashok Chandrasekar	Fay Chang	Kevin Chang	Polo Chau	Malhar Chaudhari	Bowei Chen	Chelsea Chen	Haoxian Chen	Shimin Chen	Deepti Chheda	Ian Chiu	Sangyeun Cho	Swaroop Choudhari	Jim Cipar	Ross Cohen	Anne Byrne Connell	Bill Courtright	Jason Crawford	Henggang Cui	Jiann Dai	Wei Dai	Debanshu Das	Debabrata Dash	Shelby Davis	Shobhit Dayal	Chris Demetriou	Minghua Deng	Ivan Dobric	Hardik Doshi	Utsav Drolia	Janice D'Sa	Hartaj Dugal	Tudor Dumitraş	Gregg Economou	Zisimos Economou	Chris Fallin	Bin Fan	Weihang Fan	Jian Fang	Kayvon Fatahalian	Eugene Feinberg	Eugene Fink	David Friedman	Bin Fu	Cheryl Gach Riedel	Meg Gaj	Anshul Gandhi	Rajeev Gandhi	Jason Ganetsky	Ge Gao	Kun Gao	Omkar Gawde	Carla Geisser	Ben George	Alex Glikson	Howard Gobioff	Jared Goerner	Seth Copen Goldstein	Adam Goode	Garth Goodson	Samantha Gottlieb	John Griffin	Carlos Guestrin	Varun Gupta	Fan Guo	Nitin Gupta	Kiryong Ha	Jesse Haber-Kucharsky	Rohit Harchandani	Nikos Hardavellas	Charles Hardin	Stavros Harizopoulos	Aaron Harlap	Sanket Hase	James Hendricks	Qirong Ho	Ed Hogan	Evan Hoke	Mark Holland	Kevin Hsieh	Fan Hu	Rahul Iyer	Aditya Jaltade	Amod Jaltade	Abhilasha Jain	Gaurav Jain	Saksham Jain	Shaileshkumar Jain	Aditya Jayaraman	Junchen Jiang	Wesley Jin	Christina Johns	Ryan Johnson	Abhishek Joshi	Anuj Kalia	Anirudh Kanjani	Chinmay Kamat	Rajat Kateja	Miray Kas	Mike Kasick	Soila Pertet Kavulya	Samira Khan	Lisa Kicielinski	Kevin Killourhy	Jin Kyu Kim	Peter Klemperer	Jon Kliegman	Andrew Klosterman	Russ Koenig	Vamshi Konagari	Dimitris Konomis	Marcel Kost	Vinod Das Krishnan	Elie Krevat	Bruce Krogh	Anuva Kulkarni	Kartik Kulkarni	Jennifer Landefeld	Patrick Lanigan	Nat Lanza	Donghyuk Lee	Lesley Leposo	Jure Leskovec	Sean Levy	Conglong Li	Kunmin Li	Lei Li	Mu Li	Tianyu Li	Yang Li	Chen Liang	Yuan Liang	Hyeontaek Lim	Guimin Lin	Haibin Lin	Likun Liu	Chris Long	Julio López	Nuno Loureiro	Chris Lumb	Yixin Luo	Qingming Ma	Patty Mackiewicz	Adit Madan	Tara Madhyastha	Atreyee Maiti	Diptesh Majundar	Amit Manjhi	Eugene Marinelli	Thomas Tauber-Marshall	Rolando Martins	Rui Martins	Paul Mazaitis	Michelle Mazurek	David McWherter	Prerak Mehta	Otgonpurev Mendsaikhan	Mike Mesnier	Justin Meza	Gus Angulo Mezerhane	Yuqing Miao	Nathan Mickulicz	Stephen Miller	Hiroshi Mine	Matt Monroe	Iulian Moraru	James Moss	Wenqi Mou	Steve Muckle	Chaitanya Mukka	Ravi Teja Mullapudi	Reinhard Munz	Onur Mutlu	Andy Myers	David Nagle	Priya Narasimhan	Doug Needham	Jun Nemoto	Jim Newsome	Adrian Ng	Amadou Ngom	Pooja Nilangekar	Semih Oguz	Joe Ordia	Yiqun Ouyang	Berend Ozceri	Amber Palekar	Jia-Yu Pan	Xinghao Pan	Ippokratis Pandis	Vijay Pandurangan	Spiros Papadimitriou	Stratos Papadomanolakis	Michael Papamichael	Nitin Parab	Chanik Park	Jun Woo Park	Luca Parolini	Akansha Patel	Anand Patel	Abdur Rehman Pathan	Swapnil Patil	R. Hugo Patterson	Gennady Pekhimenko	Adam Pennington	Vinay Perneti	Ginger Perng	Adrian Perrig	Matt Perron	David Petrou	Amar Phanishayee	Adam Phelps	Swapnil Pimpale	Milo Polte	Alex Poms	Jeremy Praissman	Prashasthi Prabhakar	Manish Prasad	Emil Rakadjiev	Praveen Kumar Ramakrishnan	Chandramouli Rangarajan	Devdeep Ray	Rob Reeder	Michael Reiter	Kai Ren	Wolfgang Richter	Erik Riedel	David Rochberg	Hassan Rom	Chris Sabol	KazuhiroSaito	Brandon Salmon	Raja Sambasivan	Karan Sanghi	Sarun Savetsila	Mike Scheinholtz	Jiri Schindler	Steve Schlosser	Ben Schmidt	Bianca Schroeder	Rohan Sehgal	Souptik Sen	Jungmin Seo	Vivek Seshadri	Srinivasan Sechan	Aditya Sethuraman	Ilari Shafer	Akshay Shah	Hiral Shah	Jainam Shah	Pratik Shah	Saurabh Shah	Aditya Shantanu	Minglong Shao	Yixiao Shen	Utsav Sheth	Norio Shimozono	Tomer Shiran	Zoheb Shivani	Bruno Sinopoli	Vlad Shkapenyuk	Geeta Shroff	Jiří Šimša	Mukul Singh	Nimble Storage	Shafeeq Sinnamohideen	Siddharth Shah	Yangjun Sheng	Joe Slember	Alex Smola	Dawn Song	Craig Soules	Tammo Spalink	Sundararaman Sridharan	Donpaul Stephens	Michael Stevens	Daniel Stodolsky	Michael Stroucken	John Strunk	Yu Su	Lavanya Subramanian	Sivaprasad Sudhir	Sadahiro Sugimoto	Jimeng Sun	Anand Suresh	Ajay Surie	Araki Takahiro	Atul Talesara	Tim Talpas	Jiaqi Tan	Kee Tee Lawrence Tan	Yuen-Lin Tan	Lilia Tang	Wittawat Tantisiriroj	Ken Tew	Eno Thereska	Aaron Tian	Neal Tibrewala	Eric Toan	Niraj Tolia	Andrew Tomkins	Akiri Tsuji	Alexey Tumanov	Tiankai Tu	Marc Unangst	Dilip Kumar Uppugandla	Vijay Vasudevan	Gaurav Veda	Sudhir Kumar Vijay	Nandita Vijaykumar	Jacob Vos	Matthew Wachs	Thomas Wagner	Chenxi Wang	Haoran Wang	Hui Wang	Justin Wang	Menzhi Wang	Yifan Wang	Tejas Wanjari	Jinliang Wei	Linda Whipkey	Spencer Whitma	Sonya Wierman	Andrew Williams	Cory Williams	Theodore Wong	Terrence Wong	Jay Wylie	Fan Xiang	Lin Xiao	Pengtao Xie	Hongyi Xin	Chang Xu	Lianghong Xu	Yashwanth Nannapaneni	Jiajun Yao	Jiongtao Ye	Yunfan Ye	HanBin Yoon	Chaomin Yu	Xiaolin Zang	Jim Zelenka	Hao Zhang	Huanchen Zhang	Hui Zhang	Jie Zhang	Michael Zhang	Rui Zhang	Xu Zhang	Alice Zheng	Timothy Zhu	Dong Zhou	Shuheng Zhou	Xuren Zhou	Jiaqi Zuo
+
+https://research.cs.wisc.edu/adsl/People/
+%%Andrea Arpaci-Dusseau	Remzi Arpaci-Dusseau
+&&Ram Alagappan
+^^Ram Alagappan	Jun He	Zev Weiss	Leo Prasath Arulraj	Suli Yang	Thanumalayan Pillai	Tyler Harter	Vijay Chidambaram	Lanyue Lu	Thanh Do	Yupu Zhang	Yiying Zhang	Sriram Subramanian	Joe Meehean	Swami Sundararaman	Haryadi Gunawi	Nitin Agrawal	Lakshmi Bairavasundaram	Stephen T. Jones	Florentina Popovici	Nathan Burnett	Timothy Denehy	Vijayan Prabhakaran	John Bent	Muthian Sivathanu	$$Yifan Dai	Aishwarya Ganesan	Jing Liu	Yuvraj Patel	Anthony Rebello	Kan Wu	Dennis Zhou	Chris Dragga	Ao Ma	Ishani Ahuja	Deepak Ramamurthi	Laxman Visampalli	Abhishek Rajimwale	Shweta Krishnan	Meenali Rungta	James Nugent	Camille Fournier	Brian Forney	Omer Zaki	Sambavi Muthukrishnan
+==Sudarsun Kannan	Samer Al-Kiswany
+
+https://www.fsl.cs.sunysb.edu/all-students.html
+^^Umit Ibrahim Akgun	Tyler Estro	Yifei Liu	Meyer Alex Merenstein	Wei Su
+$$Gomathi Ganesan	Vigneshwaran Mylsamy	Dheeraj Ramchandani	Aadil Shaikh	Abhiraj Smit	Yatna Verma	Haewon Julie Lee	Lukas Velikov	Yang Yang	Haolin Yu
+==Sean Callanan	Zhen Cao	Ming Che	Nikolai Joukov	Zhichao Li	Sonam Mandal	Vinay Pai	Justin Seyster	Gopalan Sivathanu	Rick Spillane	Vasily Tarasov	Avishay Traeger	Charles P. Wright	Sun Zhen	Rajesh Aavuty	Prafful Agarwal	Ankit Aggarwal	Yamini Allu	Binesh Andrews	Akshat Aranya	Shrikar Archak	Aashray Arora	Akshay Aurora	Geetika Babu Bangera	Saumitra Bhanage	Alexander Butler	Ana Centeno	Mohan-Krishna Channa-Reddy	Arvind Chaudhary	Manjunath Chinni	Udit Kaushik Chitalia	Abhijith Das	Jay Pradip Dave	Daniel J. Dean	Sagar Dixit	Ramya Edara	Tyler Estro	Sachin Gaikwad	Garima Gehlot	Sujay Godbole	Darshan Godhia	Salil Gokhale	Shivanshu Goswami	Abhishek Gupta	Naveen Gupta	Puja Gupta	Andrew Himmer	Rakesh Narayan Iyer	Mayur Jadhav	Pragesh Jagnani	Deepak Jain	Mehul Jain	Tushar Jain	Farhaan Jalia	Sagar Jeevan	Kimberly Johnson	Aneesh Joshi	Mandar S Joshi	Himanshu Kanda	Atul Karmarkar	Swaroop Karunakara	Aditya Kashyap	Samriti Katoch	Akshat Khandelwal	Shobhit Khandelwal	Nitin Khosla	Rachita Kothiyal	Arun Krishnakumar	Harikesavan Pathangi Krishnan	Devaki Kulkarni	Rohit Kumar	Koundinya Santhosh Kumar	Noopur Anil Maheshwari	Ravikant R Malpani	Michael Martino	Manu Mathew	Li Mengyang	Praveen Kumar Morampudi	Amar Mudrankit	Amanpreet Mukker	Kiran-Kumar Muniswamy-Reddy	Koundinya Muppalla	Vithiya Muthukumar	Nishant Nagalia	Ritika Nevatia	Dongju Ok	Delia Osgood	Dan Ottavio	Karthikeyani Palanisami	Madhu Srikar Palmur	Nidhi Panpalia	Harry Papaxenopoulos	Harshkumar Patel	Dhanashri Patil	Swapnil V. Patil	Chaitanya Patti	Deepika Peringanji	Dhivahar Perumal	Manish Prasad	Amit Purohit	David Quigley	Prabakar Radhakrishnan	Vinothkumar Raja	Venkatakrishnan Rajagopalan	Vishnu Vardhan Rajula	Arun Ramachandran	Hari Prasath Raman	Vineeth Ramesh	Rahul Rane	Shubhi Rani	Deepak Rao	Prateek Roy	Vishal Sahu	Saish Sali	Jasmit Saluja	Sunil Satnur	Priya Sehgal	Kunal Shah	Nehil Shah	Krapi Ravindra Shah	Rushabh Shah	Sagar Shah	Soujanya Shankaranarayana	Mukul Sharma	Varun Shastry	Pradeep Shetty	Siddesh Shinde	Gyumin Sim	Bharat Singh	Swaminathan Sivaraman	Nilesh Somani	Jatin Sood	Sphurti Sortur	Kumar Sourav	Sheshadri Sreenath	Karthikeyan Srinaivasan	Ashok Sankar Harihara Subramony	Swaminathan Sundararaman	Aayush Sureka	Gopala Suryanarayana	Ivan Deras Tabora	Siddhi Tadpatrikar	Kumar Thangavelu	Sachin Tiwari	Vivek Tiwari	Sagar Trehan	Bharath Kumar Reddy Vangoor	Arun Olappamanna Vasudevan	Kiron Vijayasankar	Kelong Wang	Zhou Zhang	Mohammad Nayyer Zubair	Maryia Maskaliova	Jeffrey R. Osborn	Yiannis Pericleous	Rick Spillane	Leixiang Wu	Ryan Leif Walsh	Charles P. Wright	Lakshay Akula	Amrith Arunachalam	Evan Chan	Adam David Alan Martin	Daniel J. Dean	Scott Harvey	Brian Nevin Hentschel	Chris Jutting	Edgardo Linero	Reynold Ryan Mercado	David Quigley	Julio Salazar	Ariye Shater	Josef Sipek	Abraham Spitalny	Kevin Sun	Ryan Matthew Walsh	Tim Wong	Yuri Yanpolski	Yinuo Zhang	Mohammad Nayyer Zubair	Jordan Hoch	Henry Nelson	Li Aili	Anand Kashyap	Vinay Pai	Dung Phan	Abhishek Rai	Joseph Spadavecchia	Hui Zhang
+
+https://asl.ethz.ch/the-lab/people/professors.html
+##Siegwart, Roland
+%%Cadena Lerma Cesar Dario	Chung Jen Jen	Gawel Abel	Lawrance Nicholas	Tognon Marco	Bühler Markus	Mantel Thomas	Müller Matthias Felix	Riner-​Kuhn Michael	Melzer Amir
+@@Borsatti Luciana	Della Casa Cornelia
+^^Achermann Florian	Allenspach Mike	Bähnemann Rik	Bernreiter Lukas	Blomqvist Kenneth Tor	Blum Hermann	Bodie Karen	Breyer Michel	Brunner Maximilian	Cramariuc Andrei	Dugas Daniel	Förster Julian	Göttler Chantal	Grinvald Margarita	Kazik Tim	Lanegger Christian	Millane Alexander	Pantic Michael	Reijgwart Victor	Rizzi Giuseppe	Rohr David	Schmid Lukas	Tschopp Florian	Weixuan Zhang
+==Markus Achtelik	Gabriel Agamennoni	Mohit Agarwal	Kostantions Alexis	Nadja Al-​Jamali	Javier Alonso Mora	Nancy Amato	Armin Ambühl	Björn Avak	Christian Bacs	Gregory Bättig	Jens Bathelt	Thomas Baumgartner	Farhad Bazyari	Christian Bermes	Berta Bescos Torcal	Andreas Bircher	Michael Blösch	Luca Bonguglielmi	Mike Bosse	Samir Bouabdallah	Quentin Boussardon	Andreas Breitenmoser	Keith Buffinton	Pascal Buholzer	Christian Bürgin	Mathias Bürki	Michael Burri	Joël Busset	Rodrigo Calvo	Gilles Caprari	Edgar Carrasco	Flavia Causa	Christophe Chautems	Chen Chen	Haoyao Chen	Qijun Chen	Margarita Chli	Titus Cieslewski	Francis Colas	Margarida Costa Faria	Vera de Vries	Fabio Diem	Stefan Dierssen	Renaud Dubé	Guillaume Ducard	Roman Ebneter	Kevin Egger	Ronald Fearing	Wolfgang Fischer	Simone Fontana	Thierry Fraichard	Daniel Frost	Paul Furgale	Stefan Gächter	Enric Galceran Yebenes	Mathias Gehrig	Christian Gehring	Igor Gilitschenski	Pascal Gohl	Ina Goller	Gómez-​Jordana Mañas Rafael	Ramon Gonzalez	Markus Grebenstein	Marius Grimm	Ahad Harati	Roland Haas	Patrik Henseler	Gregory Hitz	Markus Höpflinger	Michael Hugentobler	Rebekka Hugger-​Utzinger	Christoph Hürzeler	Marco Hutter	Ahn Hyeong-​Joon	Pietro Imelli	Xiaoting Ji	Anders Jönsson	Norman Juchler	Ralf Kästner	Laurent Kneip	Carmen Kobe	Paulo Koerich Borges	Sascha Kolski	Ambroise Krebs	Matthias Krebs	Philipp Krüsi	Eve Lasserre	Andreas Lauber	Phillipp Leemann	Benoît Lescot	Stefan Leutenegger	Ming Liu	Yu Liu	Christian Locher	Michela Longhi	Rainer Lotz	Simon Lynen	Kristijan Macek	Stéphane Magnenat	Jérôme Maye	Aaron McFadyen	Fernando Martin Monar	Daniel Meier	Robert Montau	Andreas Möckli	Viet Nguyen	Janosch Nikolic	Majid Nili	André Noth	Felix Nyffenegger	Philipp Oettershagen	Sammy Omari	Lionel Ott	Marko Panjek	Xavier Perrin	Florian Perrodin	Mark Pfeiffer	Andreas Pfrunder	Roland Philippsen	Paul Pippig	Daniel Politze	François Pomerleau	Frédéric Pont	Ciro Potena	Cédric Pradalier	Cristiano Premebida	Céline Ray	C. David Remy	Jörn Rehder	Fabian Risch	Lennon Rodgers	Konrad Rudin	Martin Rufli	Deon Sabatta	Andreas Schaffner	Dario Schafroth	Davide Scaramuzza	Dominik Schindler	Korbinian Schmid	Marcel Schmid	Marchel Schoch	Christian Schorno	Martin Schütz	Ulrich Schwesinger	Romedi Selm	Jiwon Shin	Bretislav Snobl	Hannes Sommer	Luciano Spinello	Cyrill Stachniss	Elena Stumm	Marco Steiger	Nikola Stilinovic	Marco Stoffel	Pascal Strupler	Elena Stumm	Fabien Tâche	Andrea Tagliabue	Danilo Tardioli	Zachary Taylor	Thomas Thüer	Marco Tranzatto	Marcel Tresanchez Ribes	Rudolph Triebel	Geneva Trotter	Jochen Ungermann	Luuk van Dijk	Dizan Vasquez	Shrihari Vasudevan	Sebastian Verling	Amedeo Vetrella	Teresa Vidal Calleja	Arto Visala	Lujia Wang	Bartosz Wawrzacz	Stephan Weiss	Lorenz Wellhausen	Bernhard Winter	Lukas Wirth	Bin Xu	Zihao Xu	Yang Yu	Andreas Zell	Enrico Zerilli	Ekkehard Zwicker
+
+http://mars.cs.umn.edu/people.php
+%%Stergios Roumeliotis
+^^Kejian Wu	Ryan Dutoit	Mrinal Paul	Kourosh Sartipi	Tien Do	Tong Ke
+==Luis Carlos Carrillo-Arce	Gian Luca Mariottini	Chao Guo	Esha Nerurkar	Guoquan	Joel Hesch	Ke Zhou	Faraz Mirzaei	Xun Zhou	Nikolas Trawny	Anastasios Mourikis	Ahmed Ahmed	Jingbin Yang	Georgios Georgiou	Dimitrios Kottas	Yanlai Chen	Vassilios Christopoulos	Yukikazu Hidaka
+
+https://vision.in.tum.de/members
+%%Daniel Cremers	Florian Bernard	Sabine Wagner	Quirin Lohr	&&habil. Rudolph Triebel	Niclas Zeller	^^Mohammed Brahimi	John Chiotellis	Pak Hong Chui	Nikolaus Demmel	Marvin Eisenberger	Thomas Frerix	Maolin Gao	Vladimir Golkov	Björn Häfner	Florian Hofherr	Qadeer Khan	Simon Klenk	Lukas Köstler	Zorah Lähner	Emanuel Laude	Lu Sang	David Schubert	Yuesong Shen	Christiane Sommer	Lukas von Stumberg	Christian Tomani	Rui Wang	Patrick Wenzel	Nan Yang	Tarun Yenamandra	Zhenzhang Ye	==Mathieu Aubry	Markus Bördgen	Matthäus Brandl	Thomas Brox	Julia Diebold	 Csaba Domokos	Nikolas Engelhard	Jakob Engel	Virginia Estellers Casas	Xiang Gao	Bastian Goldlücke	Philip Häusser	Caner Hazırbaş	Mariano Jaimez	Youngwook Kee	Christian Kerl	Karsten Knese	Kalin Kolev	Maria Klodt	Georg Kuschk	Lingni Ma	Robert Maier	Thomas Möllenhoff	Michael Möller	Tayyab Naseer	Claudia Nieuwenhuis	Martin R. Oswald	Thomas Pock	Yvain Queau	Emanuele Rodolà	Ulrich Schlickewei	Frank Schmidt	Thomas Schoenemann	Mohamed Souiai	Jan Stühmer	Frank Steinbrücker	Jürgen Sturm	Jörg Stückler	Jörg Stückler	Evgeny Strekalovskiy	Eno Töppe	Vladyslav Usenko	Matthias Vestner	Caterina Vitadello	Andreas Wedel	Thomas Windheuser	Tao Wu	Xiaoqin Zhang
+
+http://cvrs.whu.edu.cn/people/
+%%Jian Yao
+&&Li Li
+^^Jiaqin Jiang	Jingmin Tu	Ye Gong	Lili Li	Yinxuan Li
+$$Haitao Shi	Nan Song	Ruijie Zhang	Liujun Fu	Hongche Yin	Yangyang Lei	Yingfu Wang	Zhuoren Zhu	Jingya Xue	Haonan Dong	Tianyuan Jiang	Saiyun Dong	Ying Wang	Mingming Zhao	Yunmeng Li
+==Ruiqian Zhang	Desheng Zhuo	Kai Chen
+
+http://vision.ia.ac.cn/Faculty/index.html
+%%Zhanyi Hu	Fuchao Wu	Yihong Wu	Qiulei Dong	Wei Gao	Shuhan Shen	Heping Li	Hainan Cui
+^^Haoren Wang	Yanhong Bi	Hengliang Luo	Lei He	Yurun Tian	Xiang Gao	Lingjie Zhu	Fei Zhao	Jianwei Li	Bingke Zhu
+$$	Ting Zhang	Yang Zhou	Xu Zhao	Xiaomei Zhao	Fulin Tang	Yangdong Liu	Songyan Liu	Zhiwei Liu	Xinrui Meng	Heng Zhang	Jinxu Liu	Ruijin Chen
+==Mao Shu	Xinze Chen	Bei Tong	Xiaofeng Sun	Chaochao Yan	Ming Zhang	Miao Yu	Yi Yang	Hainan Cui	Rizhen Qin	Jiayi Feng	Liang Zhang	Kangping Fu	Juan Lei	Lihang Li	Ao Li	Yuchong Li	Youji Feng	Wei Wang	Yuanfan Xie	Zhenhua Wang	Kunfeng Shi	Zhixin Shi	Jianmin Si	Qingqun Kong	Bo wang	Fusheng Guo	Haixia Wang	Xin Liu	Wei Liu	Zhaopeng Gu	Qiang Zhang	Huixian Duan	Bin Fan	Hao Yang	Limin Shi	Liangping Tu	Zhanjun Chen	Qingxun Bai	Sen Yang	Yansheng Ming	Feng Zhang	Zhijun Dai	Xuguang Wang	Zhiheng Zhang	Boyi Tan	Can Ye	Haiwei Zhang	Lianqing Yu	Qiulei Dong	Wei Gao	Weiming Li	Xiaojie Wu	Xiaoming Deng	Chongwei Wan.	Heping Li	Hui Zeng	Jifu Zhang	Liang Wang	Xiaoli Song	Fuqing Duan	Jinfu Yang	Meifang Zhao	Xiangru Li	Zhongtian Liu	Caixia Zhang	Jiannan Zhang	Xin Xu	Xunpo Zhao	Fengrong Huang	Guanghui Wang	Haijiang Zhu	Huaifeng Zhang	Xianghua Ying	Chenfeng Wang	Dongmei Qing	Lu Wang	Ruizhen Zhao	Xinju Li	Yihong Wu	Bo Qiu	Cheng Lei	Yonder Zhong	Yu Hu	Jinhui Hu	Le Lu	Xiaoqiao Meng	Xiuyan Fei	Yuan Zhou	Changjiang Yang	Yi Yang	Hua Li	Jun Li	Lingyun Huang
+
+https://vision.cs.ubc.ca/team/
+%%Jim Little	Leonid Sigal	Kwang Moo Yi
+^^	Alireza Shafaei	Rayat Hossain	Tanzila Rahman	Raghav Goyal	Shih-Han Chou	Bicheng Xu	Daniel Rebain	Wei Jiang	Yuhe Jin	Xingzhe He	Weiwei Sun	Mohammed Suhail
+$$Siddhesh Khandelwal	Tzu-Yun Shann	Tim Straubinger	Eric Hedlin	Frank Yu	Abi Kuganesan
+==Bo Zhao	Julieta Martinez	Jianhui Chen	Fred Tung	Sina Radmard	Ankur Gupta	Tristram Southey	David Meger	Wei-Lwun Lu	Pooja Viswanathan	Kenji OkumaMaster Students	Setareh Cohan	Zicong Fan	Polina Zablotskaia	Borna Ghotbi	Gursimran Singh	Mohit Bajaj	Georgii Oleinikov	Shervin Mohammadi Tari	Parnian Alimi	Tomas Hoffman	Moumita Roy Tora	Julin Song	Candice TianVisitors	Maodi Hu
+
+http://rse-lab.cs.washington.edu/people/
+%%Dieter Fox
+&&Karthik Desingh
+$$Zoey Chen	Daniel Gordon	Aaron Walsman	Christopher Xie	Junha Roh	Xiangyun Meng	Yi Li	Vinitha Ranganeni	Matt Schmittle	Mohit Shridhar	Adam Fishman	Wentao Yuan
+==Arunkumar Byravan	Yu Xiang	Luis Puig	Yuyin Sun	Vladimir Korukov	Peter Henry	Richard Newcombe	Byron Boots	Cynthia Matuszek	Evan Herbst	Kevin Lai	Marc Deisenroth	Michael Krainin	Lillian Chang	Akin Sisbot	Jonathan Ko	Brian Ferris	James McLurkin	Hanna Pasula	Lin Liao	Donald Patterson	Jeffrey Hightower	Cody Kwok	Ravi Kiran	Julie Letchner	Benson Limketkai	Benjamin Stewart	Kevin Sikorski
+
+http://rpl.ri.cmu.edu/people/
+##Michael Kaess
+%%Joshua Mangelson	Nora Kazour
+^^Montiel Abello	Allie Chang	Wei Dong	Akshay Hinduja	Paloma Sodhi	Suddhu Suresh
+$$Eric Dexheimer	Joshua Jaekel	Akash Sharma	Chenfeng Tu	Allison Wong	Anand Bhoraskar	Yurou Yang	Prakhar Kulshreshtha	Sajal Maheshwari	Yurou Yang	Greg Woelki
+==Lipu Zhou	Rafael Valencia	Ming Hsiao	Eric Westman	Pedro Teixeira	Dehann Fourie	Matthew Klingensmith	Zimo Li	Jack Yang	Jerry Hsiung	Bing-Jui Ho	Puneet Puri	Garrett Hemann	Tiffany Huang
+
+https://marinerobotics.mit.edu/people
+##John Leonard	Mike Benjamin
+&&Dehann Fourie
+^^Kevin Doherty	Jiahui Fu	Qiangqiang Huang	Antonio Terán Espinoza	Kurran Singh	Alan Papalia	Yihao Zhang	Adam Campbell	Ziqi Lu	Brendan O'Neill
+==Alexander Bahr	David Baxter	Andrew Bennett	Mike Bosse	Cesar Cedena	Mei Yi Cheung	Ryan Eustice	Maurice Fallon	Jacob Feder	Ross Finman	John Folkesson	Luke Fletcher	Guoquan Huang	Richard Heller	Hordur Johannsson	Michael Kaess	Been Kim	Sung Joon Kim	Jacques Leedekerken	John Li	Janille Maragh	Hunter McClelland	John McDonald	David Moore	Elias Muggler	Paul Newman	Edwin Olson	Liam Paull	Georgios Papadopoulos	Sudeep Pillai	David Rosen	Brooks Reed	Richard Rikoski	Mike Salvato	Ted Steiner	Julian Straub	Pedro Vax Texeira	Christopher Wallsmith	Aisha Walcott	Matt Walter	Nick Wang	Peter KT Yu
+
+https://introlab.3it.usherbrooke.ca/mediawiki-introlab/index.php/Team#Professors.0A.3C.21--_.0ANewPP_limit_report.0ACached_time:_20201019125841.0ACache_expiry:_86400.0ADynamic_content:_false.0ACPU_time_usage:_0.011_seconds.0AReal_time_usage:_0.012_seconds.0APreprocessor_visited_node_count:_12.2F1000000.0APreprocessor_generated_node_count:_260.2F1000000.0APost.E2.80.90expand_include_size:_0.2F2097152_bytes.0ATemplate_argument_size:_0.2F2097152_bytes.0AHighest_expansion_depth:_3.2F40.0AExpensive_parser_function_count:_0.2F100.0AUnstrip_recursion_depth:_0.2F20.0AUnstrip_post.E2.80.90expand_size:_0.2F5000000_bytes.0A--.3E.0A.3C.21--.0ATransclusion_expansion_time_report_.28.25.2Cms.2Ccalls.2Ctemplate.29.0A100.00.25_0.000_1_-total.0A--.3E
+%%François Michaud	François Ferland	François Grondin	Serge Caron	Dominic Létourneau
+&&Mathieu Labbé	Adina Panchea
+^^Jean-Samuel Lauzon	Jonathan Vincent	Cyril Bounakoff	Charles-Etienne Daniel	$$Guillaume Auclair	Marc-Antoine Maheux	Cédric Godin	David Pivin	Patrick Girard	Kevin Albert
+==Jonathan Vincent	Jean-Samuel Lauzon	Jean-Sébastien Dessureault	Mathieu Labbé	Sébastien Laniel	Hugo Bédard	Frédéric Gosselin	Lionel Clavien	François Grondin	Joël Viau	Guillaume Durandau	David Brodeur	Simon Ouellet	François Ferland	Francis Leconte	Aurélien Reveleau	Arnaud Aumont	Ronan Chauvin	Matthieu Tanguay	Alexandre Dugas	Vincent Rousseau	François Grondin	Julien Frémy	Thanh Tung Tran Thanh	Éric Beaudry	Carle Côté	Mathieu Labbé	Maxime Fréchette	Benoit Heintz	Patrick Frenette	Philippe Fauteux	Jean-Sébastien Auclair-Beaudry	Jean-Luc Bedwani	Marc-Antré Lavoie	Clément Raïevsky	François Ferland	François Pomerleau	Redouane Liamini	Marc-André Roux	Daniel Labonté	David Iannuzzi	Simon Brière	Richard Cloutier	Yannick Brosseau	Marc-Antoine Legault	Tamie Salter	Éric Beaudry	Pierre Moisan	Etienne Robichaud	Jean-Marc Valin	Audrey Duquette	Frédéric Rivard	Mathieu Lemay	Jasmin Letendre	Jonathan Audet	Xavier Huppé	Jean-François Laplante	Jonathan Bisson	Sébastien Cadieux	Dominic Létourneau	Louis Drolet	Jean-Marc Ranger	Éric Laurin	Minh Tuan Vu	Tamie Salter			

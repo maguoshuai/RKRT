@@ -1,0 +1,5 @@
+ACM Transactions on Computer Systems
+ACM Transactions on Storage
+IEEE Transactions on Computer-Aided Design of Integrated Circuits And Systems
+IEEE Transactions on Computers
+IEEE Transactions on Parallel and Distributed Systems
