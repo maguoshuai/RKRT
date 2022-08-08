@@ -12,7 +12,7 @@ pymogno \
 gensim \
 numpy \
 spacy \
-pickle \
+pickle
 
 Usage
 ----------

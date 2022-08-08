@@ -259,7 +259,7 @@ def get_core_net(client):
 
 if __name__ == '__main__':
     client = MongoClient(host='172.21.201.187', port=27017)
-    # GetAllFiledLinks(client)  # create coauthor network
+    GetAllFiledLinks(client)  # create coauthor network
     get_core_net(client)
     # GetLinksByFields(client)
     # get_core_net_by_field(client)
